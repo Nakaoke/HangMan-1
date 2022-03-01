@@ -21,7 +21,7 @@ class Main {
       System.out.println("i is not zero");
     }
 
-	// this is a for loop
+	// this is a for loop - this is a loop
 	for(int j=0 ; j<10 ; j++) {
 		if(j % 2 == 0) {
 			// Only print the even numbers
